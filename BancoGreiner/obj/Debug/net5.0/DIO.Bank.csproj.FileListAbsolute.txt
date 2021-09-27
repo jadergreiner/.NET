@@ -1,0 +1,16 @@
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Users\jader.greiner\Documents\Jader\dot.net\aplicacao-transferenciaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache

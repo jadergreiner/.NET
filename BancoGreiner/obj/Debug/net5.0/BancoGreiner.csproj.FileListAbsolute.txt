@@ -1,0 +1,16 @@
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.csproj.AssemblyReference.cache
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.AssemblyInfoInputs.cache
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.AssemblyInfo.cs
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.csproj.CoreCompileInputs.cache
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\BancoGreiner.exe
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\BancoGreiner.deps.json
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\BancoGreiner.runtimeconfig.json
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\BancoGreiner.runtimeconfig.dev.json
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\BancoGreiner.dll
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\ref\BancoGreiner.dll
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\bin\Debug\net5.0\BancoGreiner.pdb
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.dll
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\ref\BancoGreiner.dll
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.pdb
+C:\Users\jader.greiner\Documents\GitHub\.NET\BancoGreiner\obj\Debug\net5.0\BancoGreiner.genruntimeconfig.cache
